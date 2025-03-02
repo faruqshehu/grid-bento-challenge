@@ -169,7 +169,8 @@ div:nth-child(6){
 
 div:nth-child(6) p{
     font-size: 1.3rem;
-    margin-right: 40%;
+    margin-right: 35%;
+    margin-bottom: 20px
     font-weight: 600;
     line-height: 90%;
 }
@@ -177,7 +178,7 @@ div:nth-child(6) p{
 
 div:nth-child(6) img{
     max-width: 100%;
-    margin-top: 10%;
+/*     margin-top: 10%; */
 }
 
 
